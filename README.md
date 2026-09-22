@@ -20,7 +20,7 @@ Thank you for considering contributing to our devtreasure.com contribution train
      ```
    - Create a new branch for your contribution:
      ```bash
-     git checkout -b add-your-message
+     git switch -c branch_name
      ```
 
 4. **Add Your Message:**
@@ -44,7 +44,7 @@ Thank you for considering contributing to our devtreasure.com contribution train
 6. **Push Your Changes:**
    - Push your changes to your forked repository:
      ```bash
-     git push origin add-your-message
+     git push origin branch_name
      ```
 
 7. **Create a Pull Request:**
